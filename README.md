@@ -29,5 +29,5 @@ O desafio deve ser realizado seguindo estes 3 passos:
 8. O analisador deve gerar uma visualização das estatísticas de uma rotina (linhas originais, linhas de código, tokens, complexidade ciclomática, complexidade cognitiva);
 
 ### Regras de negócio:
-A. O analisador deve ser capaz de executar para arquivos com código fonte nas seguintes linguagens: Python, Javascript, Java, C e GO.
-B. O analisador deve ser capaz de executar o cenário principal para vários arquivos de várias linguagens e acumular o resultado numa única lista.
+* A. O analisador deve ser capaz de executar para arquivos com código fonte nas seguintes linguagens: Python, Javascript, Java, C e GO.
+* B. O analisador deve ser capaz de executar o cenário principal para vários arquivos de várias linguagens e acumular o resultado numa única lista.
